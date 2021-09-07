@@ -1,0 +1,8 @@
+{
+  "name": "bot-ibm-video-make",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jailsonh3/bot-ibm-video-make.git",
+  "author": "jailsonh3 <jailsonh3@gmail.com>",
+  "license": "MIT"
+}
