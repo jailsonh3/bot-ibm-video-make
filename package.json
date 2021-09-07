@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/jailsonh3/bot-ibm-video-make.git",
   "author": "jailsonh3 <jailsonh3@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
