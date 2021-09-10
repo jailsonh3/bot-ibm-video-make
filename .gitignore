@@ -105,3 +105,6 @@ dist
 
 # credential algothmia
 src/credential/**.json
+
+# file content.json
+content.json
