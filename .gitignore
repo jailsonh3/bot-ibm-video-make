@@ -108,3 +108,7 @@ src/credential/**.json
 
 # file content.json
 content.json
+
+# files of dowloaded images content 
+src/content/*.png
+.DS_Store
