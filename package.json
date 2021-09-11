@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "algorithmia": "^0.3.10",
+    "googleapis": "^85.0.0",
     "ibm-watson": "^6.1.2",
     "readline-sync": "^1.4.10",
     "sbd": "^1.0.19",
